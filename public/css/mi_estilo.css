@@ -1,0 +1,13 @@
+.ventana-1{
+	width: 30%;
+}
+.ventana-2{
+	width: 50%;
+}
+.ventana-3{
+	width: 75%;
+}
+
+.ventana-1, .ventana-2, .ventana-3 {
+	margin: auto;
+}
